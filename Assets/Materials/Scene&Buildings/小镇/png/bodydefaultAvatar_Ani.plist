@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bodydefaultAvatar_0001</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{60,66}}</string>
+                <key>offset</key>
+                <string>{2,-23}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{83,101},{60,66}}</string>
+                <key>sourceSize</key>
+                <string>{222,222}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>bodydefaultAvatar_Ani.png</string>
+            <key>size</key>
+            <string>{64,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:59d947ac68d72d558cce489a320fa69d:1/1$</string>
+            <key>textureFileName</key>
+            <string>bodydefaultAvatar_Ani.png</string>
+        </dict>
+    </dict>
+</plist>

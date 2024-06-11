@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>602517</key>
+		<dict>
+			<key>delayPerUnit</key>
+			<real>0.033</real>
+			<key>restoreOriginalFrame</key>
+			<true/>
+			<key>loops</key>
+			<integer>-1</integer>
+			<key>frames</key>
+			<array>
+				<dict>
+					<key>spriteframe</key>
+					<string>602517_0001</string>
+					<key>delayUnits</key>
+					<integer>4</integer>
+					<key>notification</key>
+					<dict>
+						<key>firstframe</key>
+						<true/>
+					</dict>
+					</dict>
+				<dict>
+					<key>spriteframe</key>
+					<string>602517_0002</string>
+					<key>delayUnits</key>
+					<integer>4</integer>
+					</dict>
+				<dict>
+					<key>spriteframe</key>
+					<string>602517_0003</string>
+					<key>delayUnits</key>
+					<integer>4</integer>
+					</dict>
+				<dict>
+					<key>spriteframe</key>
+					<string>602517_0004</string>
+					<key>delayUnits</key>
+					<integer>4</integer>
+					</dict>
+				<dict>
+					<key>spriteframe</key>
+					<string>602517_0005</string>
+					<key>delayUnits</key>
+					<integer>4</integer>
+					<key>notification</key>
+					<dict>
+						<key>lastframe</key>
+						<true/>
+					</dict>
+					</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>properties</key>
+	<dict>
+		<key>spritesheets</key>		<array>
+			<string>602517_Ani.plist</string>
+		</array>
+		<key>format</key>
+		<integer>2</integer>
+	</dict>
+</dict>
+</plist>
